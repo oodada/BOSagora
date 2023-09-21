@@ -1,0 +1,87 @@
+@import "src/assets/dist/scss/variables";
+@import "src/assets/dist/scss/mixins";
+
+
+
+.dialog-field {
+  .dialog-wrap{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f5f4f6;
+    box-shadow: 0px 11px 15px -7px rgb(0 0 0 / 20%);
+    .dialog-container{
+      display: flex;
+      flex-direction: column;
+
+      .dialog-content{
+        padding: 60px 110px;
+        strong {
+          @include f-popp;
+          font-size: 2.25em;
+          font-weight: 500;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.25;
+          letter-spacing: -0.72px;
+          text-align: left;
+          color: #181c2c;
+        }
+
+        p {
+          line-height: 30px;
+          font-size: 19px;
+          color: #181c2c;
+        }
+      }
+      .dialog-bar{
+        display: flex;
+        justify-content: space-between;
+        background-color: $b;
+        .btn-g{
+          width: 100%;
+          display: initial;
+        }
+      }
+    }
+
+    .btn-close {
+      position: absolute;
+      top: -47px;
+      right: 0;
+      min-width: 0;
+      padding: 0;
+      font-size: 0;
+      transition: all 0.3s;
+      text-indent: -9999px;
+      &:hover {
+        transform: rotate(90deg);
+      }
+      &::after {
+        content: "";
+        display: block;
+        width: 32px;
+        height: 32px;
+        background: url(../../assets/images/img-comm.svg) -300px -40px no-repeat;
+        background-size: 400px 840px;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: $md) {
+  .dialog-field {
+    .dialog-wrap{
+      .dialog-container{
+        .dialog-content{
+          padding: 110px 50px;
+        }
+      }
+    }
+  }
+  .btn-g{
+   height: 70px;
+  }
+}

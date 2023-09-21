@@ -1,0 +1,32 @@
+// scss 변수
+
+$prim1: #2157e1;
+$prim2: #57d1ff;
+$prim3: #3367eb;
+$gradient1: linear-gradient(90deg, $prim1, $prim2 30%, $prim1);
+
+$w: #fff;
+$b: #171429;
+
+$line1: #cdcdcd;
+$line2: #f5f4f6;
+$line3: #959595;
+$line4: #bababa;
+// $line3: red;
+
+$bg-g: #f5f4f6;
+$bg1: #9c9ca4;
+// $bg1: #000;
+
+$gray-e: #eee;
+$gray-6: #666;
+$gray-8: #8d8d8d;
+
+$widthCont: 1280px;
+
+$xxl: 1440px; //pc
+$xl: 1280px; //notebook
+$lg: 1024px; //notebook s-size
+$md: 768px; //tablet-세로
+$sm: 425px; //mobile
+$ssm: 375px;

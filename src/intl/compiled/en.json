@@ -1,0 +1,318 @@
+{
+  "++zcjb": [
+    {
+      "type": 0,
+      "value": "Submit "
+    },
+    {
+      "type": 1,
+      "value": "arrow"
+    }
+  ],
+  "/clOBU": [
+    {
+      "type": 0,
+      "value": "Weekly"
+    }
+  ],
+  "44/F4H": [
+    {
+      "type": 0,
+      "value": "You're In! Thanks for subscribing to BOSagora Newsletter!"
+    }
+  ],
+  "47FYwb": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "5ffjro": [
+    {
+      "type": 0,
+      "value": "Email subscription failed."
+    }
+  ],
+  "6mTAR9": [
+    {
+      "type": 0,
+      "value": "The message is a required value."
+    }
+  ],
+  "7CsSO0": [
+    {
+      "type": 0,
+      "value": "Thank you for registering for the BOSagora. We will contact you after reviewing the information entered by the person in charge within 1-2 business days."
+    }
+  ],
+  "9e9QhR": [
+    {
+      "type": 0,
+      "value": "If you staking "
+    },
+    {
+      "type": 1,
+      "value": "brM"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "selectedBOA"
+    },
+    {
+      "type": 0,
+      "value": ","
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "brM"
+    },
+    {
+      "type": 0,
+      "value": " You Should get "
+    },
+    {
+      "type": 1,
+      "value": "brM"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "profitBOA"
+    },
+    {
+      "type": 1,
+      "value": "price"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "brM"
+    },
+    {
+      "type": 0,
+      "value": "per "
+    },
+    {
+      "type": 1,
+      "value": "period"
+    },
+    {
+      "type": 1,
+      "value": "brM"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "with a "
+    },
+    {
+      "type": 1,
+      "value": "percent"
+    },
+    {
+      "type": 0,
+      "value": " reward rate."
+    }
+  ],
+  "FzkbsB": [
+    {
+      "type": 0,
+      "value": "validators"
+    }
+  ],
+  "IDfUv6": [
+    {
+      "type": 0,
+      "value": "BOSAGORA"
+    }
+  ],
+  "IQmkPH": [
+    {
+      "type": 0,
+      "value": "BOSAGORA, a project enabler."
+    }
+  ],
+  "LBg6ni": [
+    {
+      "type": 0,
+      "value": "Calculate Rewards"
+    }
+  ],
+  "N2IrpM": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "OkVOrn": [
+    {
+      "type": 0,
+      "value": "These Rewards are estimate figures."
+    }
+  ],
+  "R8XgB4": [
+    {
+      "type": 0,
+      "value": "Earn Staking"
+    }
+  ],
+  "SRj6mW": [
+    {
+      "type": 0,
+      "value": "The organization is a required value."
+    }
+  ],
+  "UN1WzN": [
+    {
+      "type": 0,
+      "value": "Total Validators"
+    }
+  ],
+  "VvRtZE": [
+    {
+      "type": 0,
+      "value": "Reward rate"
+    }
+  ],
+  "b4MzF3": [
+    {
+      "type": 0,
+      "value": "Total network BOA Staked"
+    }
+  ],
+  "cLXcw4": [
+    {
+      "type": 0,
+      "value": "The name is a required value."
+    }
+  ],
+  "dqD39h": [
+    {
+      "type": 0,
+      "value": "Yearly"
+    }
+  ],
+  "fv9ekO": [
+    {
+      "type": 0,
+      "value": "※ NOTICE"
+    }
+  ],
+  "gWbi9A": [
+    {
+      "type": 1,
+      "value": "periodLabel"
+    }
+  ],
+  "hUiTK/": [
+    {
+      "type": 0,
+      "value": "REWARDS"
+    }
+  ],
+  "iSxlaH": [
+    {
+      "type": 0,
+      "value": "Staking gives you the power to earn rewards on crypto holdings."
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "brt"
+    },
+    {
+      "type": 0,
+      "value": " Become a better investor, right in the BOA Staked."
+    }
+  ],
+  "jFiDjH": [
+    {
+      "type": 0,
+      "value": "Please check here to check the exact Reward value."
+    }
+  ],
+  "kAEQyV": [
+    {
+      "type": 0,
+      "value": "OK"
+    }
+  ],
+  "kZlOEb": [
+    {
+      "type": 0,
+      "value": "Registration failed."
+    }
+  ],
+  "kiRtBv": [
+    {
+      "type": 0,
+      "value": "1 validator <= 40,000 BOA"
+    }
+  ],
+  "oLpv29": [
+    {
+      "type": 0,
+      "value": "Please enter a valid email address"
+    }
+  ],
+  "os2MjC": [
+    {
+      "type": 0,
+      "value": "The email is a required value."
+    }
+  ],
+  "p556q3": [
+    {
+      "type": 0,
+      "value": "Copied"
+    }
+  ],
+  "wYsv4Z": [
+    {
+      "type": 0,
+      "value": "Monthly"
+    }
+  ],
+  "xq91pr": [
+    {
+      "type": 0,
+      "value": "Click to copy to Clipboard."
+    }
+  ],
+  "z63I56": [
+    {
+      "type": 0,
+      "value": "validator"
+    }
+  ],
+  "zxvhnE": [
+    {
+      "type": 0,
+      "value": "Daily"
+    }
+  ]
+}
